@@ -1,0 +1,8 @@
+body {
+  text-align: left;
+  padding-top: 70px;
+}
+
+#quizzes, #exercises, #groupProjects {
+  padding-top: 70px;
+}
