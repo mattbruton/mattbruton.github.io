@@ -1,0 +1,71 @@
+{
+  "repo": [
+    {
+      "title":"Mock Business",
+      "tech": "HTML",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/html-exercise-mock-business"
+    },
+    {
+      "title":"CSS Selectors",
+      "tech": "CSS",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/exercise-css-selectors"
+    },
+    {
+      "title":"HTML Blog",
+      "tech": "HTML",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/html-exercise-blog"
+    },
+    {
+      "title":"Boybands and Veggies",
+      "tech": "JavaScript",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/exercise-JS-boybands/blob/master/boybands.js"
+    },
+    {
+      "title":"Grades",
+      "tech": "JavaScript",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/exercise-JS-grades"
+    },
+    {
+      "title":"Sonnet",
+      "tech": "JavaScript",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/exercise-JS-sonnet"
+    },
+    {
+      "title":"Basic Navigation in HTML",
+      "tech": "HTML",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/exercise-nav"
+    },
+    {
+      "title":"HTML Bio",
+      "tech": "HTML",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/html-exercise-bio"
+    },
+    {
+      "title":"HTML Banking Form (No CSS)",
+      "tech": "HTML",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/html-exercise-banking-form"
+    },
+    {
+      "title":"Articles and Sections",
+      "tech": "HTML",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/exercises_articles"
+    },
+    {
+      "title":"Basic Form Validation with CSS",
+      "tech": "CSS",
+      "category": "NSS Exercises",
+      "url": "https://github.com/mattbruton/validate-form"
+    }
+
+  ]
+}
