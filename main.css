@@ -1,8 +1,72 @@
 body {
   text-align: left;
-  padding-top: 70px;
+  background-color: #f0f0f0;
+}
+
+.navbar {
+  font-size: 1.1em;
+  background-color: #45A0D3;
+  border-bottom: 4px solid black;
+}
+
+.navbar-right {
+  border-bottom: none;
+}
+
+.navbar-left {
+  border-bottom: none;
+}
+
+.navbar a {
+  color: #000;
+  height: 40px;
+  border-bottom-style: none;
+}
+
+.navbar a:hover, .navbar a:focus {
+  height: 46px;
+  color: #000;
 }
 
 #quizzes, #exercises, #groupProjects {
-  padding-top: 70px;
+  padding-top: 40px;
+  margin: 0px 75px;
+}
+
+div > h4 {
+  padding:5px 0px;
+}
+
+img {
+  height: 25px;
+  margin: 0px 5px 5px 5px;
+}
+
+.repo {
+  background-clip: padding-box;
+  border: 5px solid transparent;
+  text-align: center;
+  height: 150px;
+}
+
+.repo h5 {
+  padding-top: 5px;
+  height: 25px;
+  background-color: #D2E1F1;
+  color: #000;
+}
+
+h5 {
+  border: 1px solid black;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+#exercises div:nth-child(odd) h5 {
+  padding-top: 5px;
+  height: 25px;
+  background-color: #99ADBE;
+  color: #fff;
 }
