@@ -77,6 +77,20 @@ h5 {
   border-bottom-right-radius: 4px;
 }
 
+.repoUrl {
+  font-weight: bold;
+  position: absolute;
+  bottom: 15px;
+  left: 50px;
+}
+
+.demoUrl {
+  font-weight: bold;
+  position: absolute;
+  bottom: 15px;
+  right: 50px;
+}
+
 #exercises div:nth-child(odd) h5 {
   padding-top: 5px;
   height: 25px;
